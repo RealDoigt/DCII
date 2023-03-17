@@ -1,5 +1,5 @@
-# DNCII
-Doigt's Nonstandard Code of Information Interchange is Doigt's own personal standard for written text on old machines that don't have an official standard for text encoding or for use cases which require supporting more than one alphabet. I don't care about your opinion if your opinion is "this shouldn't exist".
+# DCII
+Doigt's Code of Information Interchange is Doigt's own personal standard for written text on old machines that don't have an official standard for text encoding or for use cases which require supporting more than one alphabet. I don't care about your opinion if your opinion is "this shouldn't exist".
 
 ## Advantages
 
