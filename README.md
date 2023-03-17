@@ -187,37 +187,37 @@ Doigt's Nonstandard Code of Information Interchange is Doigt's own personal stan
 |B5 |182|զ or Զ   |
 |B6 |183|է or Է   |
 |B7 |184|Ը or ը   |
-|B8 |185| or    |
-|B9 |186| or    |
-|BA |187| or    |
-|BB |188| or    |
-|BC |189| or    |
-|BD |190| or    |
-|BE |191| or    |
-|BF |192| or    |
-|C0 |193| or    |
-|C1 |194| or    |
-|C2 |195| or    |
-|C3 |196| or    |
-|C4 |197| or    |
-|C5 |198| or    |
-|C6 |199| or    |
-|C7 |200| or    |
-|C8 |201| or    |
-|C9 |202| or    |
-|CA |203| or    |
-|CB |204| or    |
-|CC |205| or    |
-|CD |206| or    |
-|CE |207| or    |
-|CF |208| or    |
-|D0 |209| or    |
-|D1 |210| or    |
-|D2 |211| or    |
-|D3 |212| or    |
-|D4 |213| or    |
-|D5 |214| or    |
-|D6 |215| or    |
+|B8 |185| or Թ   |
+|B9 |186| or Ժ   |
+|BA |187| or Ի   |
+|BB |188| or Լ   |
+|BC |189| or Խ   |
+|BD |190| or Ծ   |
+|BE |191| or Կ   |
+|BF |192| or Հ   |
+|C0 |193| or Ձ   |
+|C1 |194| or Ղ   |
+|C2 |195| or Ճ   |
+|C3 |196| or Մ   |
+|C4 |197| or Յ   |
+|C5 |198| or Ն   |
+|C6 |199| or Շ   |
+|C7 |200| or Ո   |
+|C8 |201| or Չ   |
+|C9 |202| or Պ   |
+|CA |203| or Ջ   |
+|CB |204| or Ռ   |
+|CC |205| or Ս   |
+|CD |206| or Վ   |
+|CE |207| or Տ   |
+|CF |208| or Ր   |
+|D0 |209| or Ց   |
+|D1 |210| or Ւ   |
+|D2 |211| or Փ   |
+|D3 |212| or Ք   |
+|D4 |213| or Ֆ   |
+|D5 |214| ու      |
+|D6 |215| և       |
 
 ## Special Characters
 
