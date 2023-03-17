@@ -8,6 +8,24 @@ Doigt's Code of Information Interchange is Doigt's own personal standard for wri
 * Compact: With the special Uppercase character, we can still have lower and upper case characters while supporting many alphabets and having the lowest possible size for a single character.
 * Adaptable: 40 characters reserved for private use, which should give enough breathing room for special use cases.
 
+## Special Characters
+
+### Null
+The null character indicates the end of a string for programming purposes. It shouldn't be displayed. It is not mandatory to use it in text data.
+
+### Next line
+Moves the cursor to the next line at column 0 of the text container. It's the equivalent to a new line.
+
+### Uppercase
+The way the uppercase character works is that the character which follows shoud be displayed in its capital form. If there are two consecutive uppercase characters, then all characters which follow are to be displayed in their uppercase form until another uppercase character or a null character is encountered.
+
+In the case of Japanese text, the uppercase character changes the character set from katakana to hiragana instead. Hiragana is the default character set because, historically, katakana-only games far outnumber the hiragana-only games[¹](https://legendsoflocalization.com/video-games-and-japans-three-main-writing-systems/#writing-everything-in-katakana). However, if feedback wants hiragana as the default set, I will change it according to the feedback.
+
+In the case of georgian text, only Mkhedruli is officially covered by DCII. So the uppercase character has no effect on georgian letters.
+
+### Cyrillic, Greek and Armenian alphabets
+In order to save some space, letters which share an identical or similar appearance to latin letters do not have their own code with the exception of characters which are identical or similar for only one of their forms. Diacritics don't exist in DCII. Greek texts should use the semi-colon as a substitute for question marks. The word-final sigma variant doesn't exist in this standard.
+
 ## The Table
 |Hex|Dec|Glyph    |
 |---|---|---------|
@@ -225,21 +243,3 @@ Doigt's Code of Information Interchange is Doigt's own personal standard for wri
 |D4 |213|ֆ or Ֆ   |
 |D5 |214|ու       |
 |D6 |215|և        |
-
-## Special Characters
-
-### Null
-The null character indicates the end of a string for programming purposes. It shouldn't be displayed. It is not mandatory to use it in text data.
-
-### Next line
-Moves the cursor to the next line at column 0 of the text container. It's the equivalent to a new line.
-
-### Uppercase
-The way the uppercase character works is that the character which follows shoud be displayed in its capital form. If there are two consecutive uppercase characters, then all characters which follow are to be displayed in their uppercase form until another uppercase character or a null character is encountered.
-
-In the case of Japanese text, the uppercase character changes the character set from katakana to hiragana instead. Hiragana is the default character set because, historically, katakana-only games far outnumber the hiragana-only games[¹](https://legendsoflocalization.com/video-games-and-japans-three-main-writing-systems/#writing-everything-in-katakana). However, if feedback wants hiragana as the default set, I will change it according to the feedback.
-
-In the case of georgian text, only Mkhedruli is officially covered by DCII. So the uppercase character has no effect on georgian letters.
-
-### Cyrillic, Greek and Armenian alphabets
-In order to save some space, letters which share an identical or similar appearance to latin letters do not have their own code with the exception of characters which are identical or similar for only one of their forms. Diacritics don't exist in DCII. Greek texts should use the semi-colon as a substitute for question marks. The word-final sigma variant doesn't exist in this standard.
