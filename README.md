@@ -11,8 +11,8 @@ Doigt's Nonstandard Code of Information Interchange is Doigt's own personal stan
 |4  |4  |!        |
 |5  |5  |#        |
 |7  |7  |'        |
-|8  |8  |(        |
-|9  |9  |)        |
+|8  |8  |( or [   |
+|9  |9  |) or ]   |
 |A  |10 |*        |
 |B  |11 |+        |
 |C  |12 |,        |
