@@ -235,11 +235,11 @@ The null character indicates the end of a string for programming purposes. It sh
 Moves the cursor to the next line at column 0 of the text container. It's the equivalent to a new line.
 
 ### Uppercase
-The way the uppercase character works is that the character which follows shoud be displayed in its uppercase form. If there are two consecutive uppercase characters, then all characters which follow are to be displayed in their uppercase form until another uppercase character or a null character is encountered.
+The way the uppercase character works is that the character which follows shoud be displayed in its capital form. If there are two consecutive uppercase characters, then all characters which follow are to be displayed in their uppercase form until another uppercase character or a null character is encountered.
 
-In the case of japanese text, the uppercase character changes the character set from katakana to hiragana instead. Hiragana is the default character set because historically, katakana-only games far outnumber the hiragana-only games[¹](https://legendsoflocalization.com/video-games-and-japans-three-main-writing-systems/#writing-everything-in-katakana). However, if feedback wants hiragana as the default set, I will change it according to the feedback.
+In the case of Japanese text, the uppercase character changes the character set from katakana to hiragana instead. Hiragana is the default character set because, historically, katakana-only games far outnumber the hiragana-only games[¹](https://legendsoflocalization.com/video-games-and-japans-three-main-writing-systems/#writing-everything-in-katakana). However, if feedback wants hiragana as the default set, I will change it according to the feedback.
 
-In the case of georgian text, only Mkhedruli is officially covered by DNCII. So the uppercase character has no effect on georgian letters.
+In the case of georgian text, only Mkhedruli is officially covered by DCII. So the uppercase character has no effect on georgian letters.
 
 ### Cyrillic, Greek and Armenian alphabets
-In order to save some space, letters which share an identical appearance to latin letters do not have their own code with the exception of cyrillic's В, M, Н, Ь and У; greek's Β, Ε, Ζ, Η, Ι, Μ, Ν, Τ and Χ; armenian's Լ and Տ. Diacritics don't exist in DNCII. Greek texts should use the semi-colon as a substitute for question marks. The word-final sigma variant doesn't exist in this standard.
+In order to save some space, letters which share an identical or similar appearance to latin letters do not have their own code with the exception of characters which are identical or similar for only one of their forms. Diacritics don't exist in DCII. Greek texts should use the semi-colon as a substitute for question marks. The word-final sigma variant doesn't exist in this standard.
