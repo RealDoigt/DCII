@@ -1,5 +1,12 @@
 # DNCII
-Doigt's Nonstandard Code of Information Interchange is Doigt's own personal standard for written text on old machines that don't have an official standard for text encoding. I don't care about your opinion if your opinion is "this shouldn't exist".
+Doigt's Nonstandard Code of Information Interchange is Doigt's own personal standard for written text on old machines that don't have an official standard for text encoding or for use cases which require supporting more than one alphabet. I don't care about your opinion if your opinion is "this shouldn't exist".
+
+## Advantages
+
+* Lightweight: The character values can be stored in 8-bit values.
+* International: It supports multiple writing systems.
+* Compact: With the special Uppercase character, we can still have lower and upper case characters while supporting many alphabets and having the lowest possible size for a single character.
+* Adaptable: 40 characters reserved for private use, which allows for special cases.
 
 ## The table
 |Hex|Dec|Glyph    |
@@ -216,8 +223,8 @@ Doigt's Nonstandard Code of Information Interchange is Doigt's own personal stan
 |D2 |211|փ or Փ   |
 |D3 |212|ք or Ք   |
 |D4 |213|ֆ or Ֆ   |
-|D5 |214| ու      |
-|D6 |215| և       |
+|D5 |214|ու       |
+|D6 |215|և        |
 
 ## Special Characters
 
