@@ -8,7 +8,7 @@ Doigt's Code of Information Interchange is Doigt's own personal standard for wri
 * Compact: With the special Uppercase character, we can still have lower and upper case characters while supporting many alphabets and having the lowest possible size for a single character.
 * Adaptable: 40 characters reserved for private use, which allows for special cases.
 
-## The table
+## The Table
 |Hex|Dec|Glyph    |
 |---|---|---------|
 |0  |0  |Null     |
