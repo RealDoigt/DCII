@@ -35,6 +35,7 @@ In order to save some space, letters which share an identical or similar appeara
 |3  |3  |Space    |
 |4  |4  |!        |
 |5  |5  |#        |
+|6  |6  |"        |
 |7  |7  |'        |
 |8  |8  |( or [   |
 |9  |9  |) or ]   |
