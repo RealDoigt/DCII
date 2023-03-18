@@ -23,6 +23,9 @@ In the case of Japanese text, the uppercase character changes the character set 
 
 In the case of georgian text, only Mkhedruli is officially covered by DCII. So the uppercase character has no effect on georgian letters.
 
+### Unknown
+The unknown character is for conversion purposes in a case when a character from another encoding doesn't exist in DCII.
+
 ### Cyrillic, Greek and Armenian alphabets
 In order to save some space, letters which share an identical or similar appearance to latin letters do not have their own code with the exception of characters which are identical or similar for only one of their forms. Diacritics don't exist in DCII. Greek texts should use the semi-colon as a substitute for question marks. The word-final sigma variant doesn't exist in this standard.
 
@@ -243,3 +246,4 @@ In order to save some space, letters which share an identical or similar appeara
 |D3 |211|ք or Ք   |
 |D4 |212|ֆ or Ֆ   |
 |D5 |213|և        |
+|FF |255|Unknown  |
