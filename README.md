@@ -242,5 +242,4 @@ In order to save some space, letters which share an identical or similar appeara
 |D2 |210|փ or Փ   |
 |D3 |211|ք or Ք   |
 |D4 |212|ֆ or Ֆ   |
-|D5 |213|ու       |
-|D6 |214|և        |
+|D5 |213|և        |
