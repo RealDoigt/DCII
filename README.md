@@ -6,7 +6,7 @@ Doigt's Code of Information Interchange is Doigt's own personal standard for wri
 * Lightweight: The character values can be stored in 8-bit values.
 * International: It supports multiple writing systems.
 * Compact: With the special Uppercase character, we can still have lower and upper case characters while supporting many alphabets and having the lowest possible size for a single character.
-* Adaptable: 40 characters reserved for private use, which should give enough breathing room for special use cases.
+* Adaptable: ~30 characters reserved for private use, which should give enough breathing room for special use cases.
 
 ## Special Characters
 
