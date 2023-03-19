@@ -247,4 +247,12 @@ In order to save some space, letters which share an identical or similar appeara
 |D4 |212|ք or Ք   |
 |D5 |213|ֆ or Ֆ   |
 |D6 |214|և        |
+|D7 |215|─ or │   |
+|D8 |216|┌ or ┐   |
+|D9 |217|└ or ┘   |
+|DA |218|├ or ┤   |
+|DB |219|┬ or ┴   |
+|DC |220|┼        | 
+|DD |221|░ or ▒   |
+|DE |222|▓ or █   |
 |FF |255|Unknown  |
