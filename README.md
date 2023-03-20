@@ -253,6 +253,6 @@ In order to save some space, letters which share an identical or similar appeara
 |DA |218|├ or ┤   |
 |DB |219|┬ or ┴   |
 |DC |220|┼        | 
-|DD |221|░ or ▒   |
-|DE |222|▓ or █   |
+|DD |221|╭ or ╮   |
+|DE |222|╰ or ╯   |
 |FF |255|Unknown  |
